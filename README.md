@@ -1,6 +1,6 @@
 # Semantic Segmentation 基于改进的ResNet-U-Net
 
-基于ResNet改进U-Net，融合注意力机制和ASPP模块，实现多类别语义分割。
+我的CV课程实验，基于ResNet改进U-Net，融合注意力机制和ASPP模块，实现多类别语义分割。
 
 ## 特点
 
