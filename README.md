@@ -22,12 +22,14 @@
 └── best.pth                             # 模型                           
 ```
 
-## 网络结构
+## 大致网络结构
 ![](nn.png)
+前向传播未画出😴
 
 ## 成果demo
-!['训练50次loss和dice sorce'](graph.png)
-
+训练50次
+!['训练50次'loss和dice sorce'](graph.png)
+训练100次
 !['训练100次loss和dice sorce'](graph100.png)
 
 ![demo](valid.png)
