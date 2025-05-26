@@ -20,7 +20,17 @@
 ├── README.md                            # 项目说明文档
 └── best.pth                             # 模型                           
 ```
-##网络结构
+
+## 网络结构
+![](nn.png)
+
+## 成果demo
+![loss和dice sorce](graph.png)
+
+![demo](valid.png)
+
+
+
 
 ## 环境依赖
 
