@@ -26,8 +26,9 @@
 ![](nn.png)
 
 ## 成果demo
-![训练50次loss和dice sorce](graph.png)
-![训练100次loss和dice sorce](graph100.png)
+!['训练50次loss和dice sorce'](graph.png)
+
+!['训练100次loss和dice sorce'](graph100.png)
 
 ![demo](valid.png)
 
