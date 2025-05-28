@@ -1,15 +1,24 @@
 # Semantic Segmentation 基于改进的ResNet-U-Net
 
 大学牲的CV课程实验🥲，基于ResNet改进U-Net，深度监督、融合注意力机制和ASPP模块，实现多类别语义分割。
-University's CV course experiment 🥲, based on ResNet to improve U-Net, in-depth supervision, integration of attention mechanism and ASPP module, to achieve multi-category semantic segmentation.
 
-## 特点
+*As a student,it's my CV course experiment 🥲, based on ResNet to improve U-Net, in-depth supervision, integration of attention mechanism and ASPP module, to achieve multi-category semantic segmentation.*
+
+## 特点 *feature*
 
 - 基于ResNet的编码器，增强特征提取能力
 - 引入注意力机制，聚焦重要特征区域
 - 集成ASPP模块，提升多尺度目标处理能力
 - 深度监督，学习多层次特征
 - 图像增强
+
+*
+- ResNet-based encoder enhances feature extraction ability
+- Introduce attention mechanisms and focus on important feature areas
+- Integrate ASPP modules to improve multi-scale target processing ability
+- In-depth supervision, learning multi-level characteristics
+- Image enhancement
+*
 
 ## 文件结构
 ```
