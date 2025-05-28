@@ -12,15 +12,15 @@
 - 深度监督，学习多层次特征
 - 图像增强
 
-*
-- ResNet-based encoder enhances feature extraction ability
-- Introduce attention mechanisms and focus on important feature areas
-- Integrate ASPP modules to improve multi-scale target processing ability
-- In-depth supervision, learning multi-level characteristics
-- Image enhancement
-*
 
-## 文件结构
+- *ResNet-based encoder enhances feature extraction ability*
+- *Introduce attention mechanisms and focus on important feature areas*
+- *Integrate ASPP modules to improve multi-scale target processing ability*
+- *In-depth supervision, learning multi-level characteristics*
+- *Image enhancement*
+
+
+## 文件结构 *Files*
 ```
 ├── ResNet_Semantic_Segmentation.ipynb   # 主代码文件，包含模型构建与训练流程
 ├── voc-pascal-2012-segmentation         # 数据集文件夹
@@ -32,7 +32,7 @@
 └── best.pth                             # 模型                           
 ```
 
-## 大致网络结构
+## 大致网络结构 *Rough network structure*
 ![](nn.png)
 
 
@@ -48,7 +48,7 @@
 
 
 
-## 环境依赖
+## 环境依赖 *Environment*
 
 - Python 3.x
 - Jupyter Notebook
