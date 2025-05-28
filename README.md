@@ -1,6 +1,7 @@
 # Semantic Segmentation 基于改进的ResNet-U-Net
 
 大学牲的CV课程实验🥲，基于ResNet改进U-Net，深度监督、融合注意力机制和ASPP模块，实现多类别语义分割。
+University's CV course experiment 🥲, based on ResNet to improve U-Net, in-depth supervision, integration of attention mechanism and ASPP module, to achieve multi-category semantic segmentation.
 
 ## 特点
 
