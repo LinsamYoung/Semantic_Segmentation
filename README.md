@@ -6,18 +6,11 @@
 
 ## 特点 *feature*
 
-- 基于ResNet的编码器，增强特征提取能力
-- 引入注意力机制，聚焦重要特征区域
-- 集成ASPP模块，提升多尺度目标处理能力
-- 深度监督，学习多层次特征
-- 图像增强
-
-
-- *ResNet-based encoder enhances feature extraction ability*
-- *Introduce attention mechanisms and focus on important feature areas*
-- *Integrate ASPP modules to improve multi-scale target processing ability*
-- *In-depth supervision, learning multi-level characteristics*
-- *Image enhancement*
+- 基于ResNet的编码器，增强特征提取能力*ResNet-based encoder enhances feature extraction ability*
+- 引入注意力机制，聚焦重要特征区域*Introduce attention mechanisms and focus on important feature areas*
+- 集成ASPP模块，提升多尺度目标处理能力*Integrate ASPP modules to improve multi-scale target processing ability*
+- 深度监督，学习多层次特征*In-depth supervision, learning multi-level characteristics*
+- 图像增强*Image enhancement*
 
 
 ## 文件结构 *Files*
